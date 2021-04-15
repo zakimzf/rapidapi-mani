@@ -1,0 +1,40 @@
+{
+  "dir": "ltr",
+  "lang": "en-US",
+  "name": "RapidAPI",
+  "short_name": "RapidAPI",
+  "scope": "/",
+  "display": "browser",
+  "start_url": "https://rapidapi.com/",
+  "background_color": "#000000",
+  "theme_color": "transparent",
+  "description": "Use RapidAPI to Find, Connect, & Share 1000s of APIs using our Multi-cloud platform. Improve Developer Experience with API Design, Testing, Monitoring, & More!",
+  "orientation": "any",
+  "related_applications": [],
+  "prefer_related_applications": "false",
+  "icons": [
+    {
+      "src": "https://rapidapi.com/wp-content/uploads/2020/07/favicon-2.png",
+      "type": "image/png",
+      "sizes": "116x116"
+    },
+    {
+      "src": "https://rapidapi.com/wp-content/uploads/2020/07/favicon-2.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://rapidapi.com/wp-content/uploads/2020/07/favicon-2.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://rapidapi.com/wp-content/uploads/2020/07/favicon-2.png",
+      "type": "image/png",
+      "sizes": "116x116"
+    }
+  ],
+  "url": "https://Rapidapi.com",
+  "generated": true,
+  "screenshots": []
+}
